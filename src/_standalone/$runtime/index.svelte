@@ -1,3 +1,3 @@
 <script lang="ts">
-    import '../../shared/app.css';
+    import "../../shared/app.css"
 </script>
